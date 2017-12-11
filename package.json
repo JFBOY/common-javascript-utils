@@ -1,6 +1,23 @@
 {
-	"name": "common-javascript-utils",
-	"version": "0.0.1",
-	"main": "src/index.js",
-	"author": "JFBOY"
+  "name": "common-javascript-utils",
+  "version": "0.0.1",
+  "main": "src/index.js",
+  "author": "JFBOY",
+  "description": "Here are some common javascript utils",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jeezlee/common-javascript-utils.git"
+  },
+  "keywords": [
+    "javascript",
+    "utils"
+  ],
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jeezlee/common-javascript-utils/issues"
+  },
+  "homepage": "https://github.com/jeezlee/common-javascript-utils#readme"
 }

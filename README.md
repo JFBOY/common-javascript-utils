@@ -1,6 +1,6 @@
 # common javascript utils
 
-Here are some common javascript utils
+Utility module for JavaScript.
 
 ## install
 ```bash
